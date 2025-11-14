@@ -1,1 +1,1 @@
-Salam Stalker
+Bu satır feature-newTest branchinde yazıldı.
